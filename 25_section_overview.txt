@@ -1,0 +1,24 @@
+
+Section 04: Getting started
+--------------------------------------------------------------------------
+
+Section Overview
+
+	- CodeLite IDE Quick Tour
+
+	- Our first program
+
+		+ Compiling*
+
+		+ Building
+
+		+ Running
+
+		+ Errors
+
+		+ Warnings
+
+* Compiling added by Matt Johnson
+
+
+
