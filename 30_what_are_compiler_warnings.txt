@@ -1,0 +1,22 @@
+
+Section 04: What Are Compiler Warnings
+-------------------------------------------------------------------------------------------------
+
+Compiler Warnings
+
+	- Do NOT ignore them!
+
+	- the compiler has recognized an issue with your code
+	  that oculd lead to a potential problem
+
+	- it's only a warning because the compiler is still able
+	  to generate correct machine code
+
+	  	int miles_driven;
+
+		std::cout << miles_driven;
+
+	- warning: 'miles_driven' is uninitialized
+
+
+
