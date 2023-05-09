@@ -1,4 +1,5 @@
 /home/snarkydata/udemy-courses/Cpp-Courses/Beginning-Cpp-Programming-From-Beginner-to-Beyond/Section-04-Getting-Started/Section-04-Workspace/29-What-Are-Compiler-Errors/main.cpp
+/home/snarkydata/udemy-courses/Cpp-Courses/Beginning-Cpp-Programming-From-Beginner-to-Beyond/Section-04-Getting-Started/Section-04-Workspace/30-What-Are-Compiler-Warnings/main.cpp
 /home/snarkydata/udemy-courses/Cpp-Courses/Beginning-Cpp-Programming-From-Beginner-to-Beyond/Section-04-Getting-Started/Section-04-Workspace/28-Building-Our-First-Program/main.cpp
 /home/snarkydata/udemy-courses/Cpp-Courses/Beginning-Cpp-Programming-From-Beginner-to-Beyond/Section-04-Getting-Started/Section-04-Workspace/27-Writing-Our-First-Program/main.cpp
 /home/snarkydata/udemy-courses/Cpp-Courses/Beginning-Cpp-Programming-From-Beginner-to-Beyond/Section-04-Getting-Started/Section-04-Workspace/Project-02/main.cpp

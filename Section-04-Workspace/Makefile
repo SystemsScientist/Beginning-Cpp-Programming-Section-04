@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 29-What-Are-Compiler-Errors - Debug ]----------"
-	@cd "29-What-Are-Compiler-Errors" && "$(MAKE)" -f  "29-What-Are-Compiler-Errors.mk"
+	@echo "----------Building project:[ 30-What-Are-Compiler-Warnings - Debug ]----------"
+	@cd "30-What-Are-Compiler-Warnings" && "$(MAKE)" -f  "30-What-Are-Compiler-Warnings.mk"
 clean:
-	@echo "----------Cleaning project:[ 29-What-Are-Compiler-Errors - Debug ]----------"
-	@cd "29-What-Are-Compiler-Errors" && "$(MAKE)" -f  "29-What-Are-Compiler-Errors.mk" clean
+	@echo "----------Cleaning project:[ 30-What-Are-Compiler-Warnings - Debug ]----------"
+	@cd "30-What-Are-Compiler-Warnings" && "$(MAKE)" -f  "30-What-Are-Compiler-Warnings.mk" clean
