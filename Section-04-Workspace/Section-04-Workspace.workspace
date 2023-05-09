@@ -6,7 +6,8 @@
   <Project Name="28-Building-Our-First-Program" Path="28-Building-Our-First-Program/28-Building-Our-First-Program.project" Active="No"/>
   <Project Name="29-What-Are-Compiler-Errors" Path="29-What-Are-Compiler-Errors/29-What-Are-Compiler-Errors.project" Active="No"/>
   <Project Name="30-What-Are-Compiler-Warnings" Path="30-What-Are-Compiler-Warnings/30-What-Are-Compiler-Warnings.project" Active="No"/>
-  <Project Name="31-What-Are-Linker-Erros" Path="31-What-Are-Linker-Erros/31-What-Are-Linker-Erros.project" Active="Yes"/>
+  <Project Name="31-What-Are-Linker-Erros" Path="31-What-Are-Linker-Erros/31-What-Are-Linker-Erros.project" Active="No"/>
+  <Project Name="Test-Project" Path="Test-Project/Test-Project.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +18,7 @@
       <Project Name="29-What-Are-Compiler-Errors" ConfigName="Debug"/>
       <Project Name="30-What-Are-Compiler-Warnings" ConfigName="Debug"/>
       <Project Name="31-What-Are-Linker-Erros" ConfigName="Debug"/>
+      <Project Name="Test-Project" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +29,7 @@
       <Project Name="29-What-Are-Compiler-Errors" ConfigName="Release"/>
       <Project Name="30-What-Are-Compiler-Warnings" ConfigName="Release"/>
       <Project Name="31-What-Are-Linker-Erros" ConfigName="Release"/>
+      <Project Name="Test-Project" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
