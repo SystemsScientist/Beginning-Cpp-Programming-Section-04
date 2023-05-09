@@ -1,0 +1,14 @@
+
+Section 04: What Are Linker Errors
+------------------------------------------------------------------------------------
+
+Linker Errors
+
+	- the linker is having trouble linking all the object
+	  files together to create an executable
+
+	- usually there is a library or object file that is
+	  missing
+
+
+
