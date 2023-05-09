@@ -22,7 +22,7 @@
 
 int main(void) {
     
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "This is an awesome program!" << std::endl;
     
     // std::cout << x;
     
