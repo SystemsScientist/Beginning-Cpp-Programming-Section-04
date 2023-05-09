@@ -3,7 +3,8 @@
   <Project Name="Project-01" Path="Project-01/Project-01.project" Active="No"/>
   <Project Name="Project-02" Path="Project-02/Project-02.project" Active="No"/>
   <Project Name="27-Writing-Our-First-Program" Path="27-Writing-Our-First-Program/27-Writing-Our-First-Program.project" Active="No"/>
-  <Project Name="28-Building-Our-First-Program" Path="28-Building-Our-First-Program/28-Building-Our-First-Program.project" Active="Yes"/>
+  <Project Name="28-Building-Our-First-Program" Path="28-Building-Our-First-Program/28-Building-Our-First-Program.project" Active="No"/>
+  <Project Name="29-What-Are-Compiler-Errors" Path="29-What-Are-Compiler-Errors/29-What-Are-Compiler-Errors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="Project-02" ConfigName="Debug"/>
       <Project Name="27-Writing-Our-First-Program" ConfigName="Debug"/>
       <Project Name="28-Building-Our-First-Program" ConfigName="Debug"/>
+      <Project Name="29-What-Are-Compiler-Errors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="Project-02" ConfigName="Release"/>
       <Project Name="27-Writing-Our-First-Program" ConfigName="Release"/>
       <Project Name="28-Building-Our-First-Program" ConfigName="Release"/>
+      <Project Name="29-What-Are-Compiler-Errors" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
