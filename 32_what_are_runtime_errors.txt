@@ -1,0 +1,23 @@
+
+Section 04: What Are Runtime Errors
+--------------------------------------------------------------------------------
+
+Runtime Errors
+
+	- Errors that occur when the program is executing
+
+	- Some typical runtime errors
+
+		+ Divide by zero
+
+		+ File not found
+
+		+ OUt of memory
+
+	- Can cause your program to crash
+
+	- Exception Handling can help deal with
+	  runtime errors
+
+
+
