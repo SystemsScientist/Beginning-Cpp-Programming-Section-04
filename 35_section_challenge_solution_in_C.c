@@ -24,7 +24,7 @@ int main(void) {
 	
 	int favorite_number = 0;
 
-	printf("Enter your favorite number: ");
+	printf("Enter your favorite number between 1 and 100: ");
 	scanf("%d", &favorite_number);
 
 	printf("Amazing!! That's my favorite number, too!\n");
