@@ -1,0 +1,28 @@
+
+Section 04: What Are Logic Errors
+------------------------------------------------------------------------------
+
+Logic Errors
+
+	- Errors or bugs in your code that cause your program
+	  to run incorrectly
+
+	- Logic errors are mistakes made by the programmer
+
+	- Suppose we have a program that determines if a person
+	  can vote in an election and you must be 18 years or 
+	  older to vote:
+
+	  if (age > 18) {
+
+		std::cout << "Yes, you can vote!";
+	  }
+
+	- Test your code!
+
+	- What's wrong with the code?
+
+		+ 18 years or older means (age >= 18)
+
+
+
