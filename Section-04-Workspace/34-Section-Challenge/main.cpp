@@ -2,7 +2,7 @@
  *  Author: Matt Johnson
  *  Purpose: designing section challenge program
  *  Subject: basic C++ program
- *  Date: 05/09/2023 
+ *  Date: 05/10/2023 
  * 
  *  Notes:
  * 
